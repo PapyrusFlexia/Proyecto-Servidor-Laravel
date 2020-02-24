@@ -1,7 +1,7 @@
   
 @extends('layout')
 
-@section('title', "Crear usuario")
+@section('title', "Editar usuario")
 
 @section('content')
     <h1>Editar usuario</h1>
